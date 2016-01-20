@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpinnerActivity</string>
+    <string name="choose_city">Please choose a city!</string>
+    <string-array name="cities_array">
+        <item>Ha Noi</item>
+        <item>Ho Chi Minh</item>
+        <item>Da Nang</item>
+        <item>Hai Phong</item>
+        <item>Hue</item>
+        <item>Nam Dinh</item>
+        <item>Thai Binh</item>
+        <item>Ninh Binh</item>
+        <item>Nghe An</item>
+        <item>Nghe Tinh</item>
+        <item>Thai Nguyen</item>
+        <item>Lao Cai</item>
+    </string-array>
+</resources>
